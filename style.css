@@ -680,7 +680,7 @@ p{
 
 /*---facebook btn---*/
 .facebook-continer{
-    position: fixed;
+    position: absolute;
     left: 30px;
     top:550px;
     padding: 24px;
@@ -720,7 +720,7 @@ p{
 }
 /*---phone btn---*/
 .phone-continer{
-    position: fixed;
+    position: absolute;
     left: 30px;
     top:650px;
     padding: 24px;
